@@ -1,0 +1,11 @@
+{
+  "name": "noteapp_js",
+  "version": "1.0.0",
+  "description": "command-line note-taking application written in Node.js using readline-sync for user input and fs for file operations. Here are some improvements and enhancements:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
